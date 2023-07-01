@@ -29,20 +29,20 @@ main {
     border-radius:13px ;
     text-align: center;
     align-items: center;
-    font-size: 1.2em;
 }
 
 p.paragraph{
     font-family: "Outfit",sans-serif;
     font-weight: 400;
     color: #8E919A;
-    font-size: 14px;
+    font-size: 15px;
 }
 p.titre {
     font-family: "Outfit",sans-serif;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 25px;
     color: black;
+    margin-bottom: 0;
 }
 footer {
     justify-content: end;
