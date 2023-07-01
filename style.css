@@ -23,17 +23,23 @@ main {
     width: 320px;
     border-radius:13px ;
     text-align: center;
-    
+    align-items: center;
+    font-size: 1.2em;
 }
-p{
+
+p.paragraph{
     font-family: "Outfit",sans-serif;
-    font-weight: 500;
+    font-weight: 400;
+    color: #8E919A;
 }
-.titre {
+p.titre {
+    font-family: "Outfit",sans-serif;
     font-weight: 700;
+    color: black;
 }
 footer {
     justify-content: end;
     position: absolute;
     bottom: 0;
+    height: 20px;
 }
